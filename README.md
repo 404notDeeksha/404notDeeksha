@@ -3,7 +3,7 @@
 
 <h3>I am a Friendly dev, turning ideas into interfaces and bugs into lessons.</h3>
 
-<!--- [![](https://komarev.com/ghpvc/?username=Aayushjain-code)](https://github.com/Aayushjain-code) --->
+[![](https://komarev.com/ghpvc/?username=404notDeeksha)](https://github.com/404notDeeksha)
 
 </div>
 
