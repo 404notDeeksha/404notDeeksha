@@ -17,7 +17,7 @@
 ----
 
 ### 📫 How to reach me: 
-**deeksha14.developer@gmail.com**
+**deeksha.developer@proton.me**
 
 ----
 
